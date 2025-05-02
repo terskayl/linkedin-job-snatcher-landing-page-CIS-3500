@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LinkedIn Job Snatcher</title><link>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/</link><description>Recent content on LinkedIn Job Snatcher</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/index.xml" rel="self" type="application/rss+xml"/><item><title>About Us</title><link>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/about/</guid><description>&lt;h1 id="meet-the-team">Meet the Team&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LinkedIn Job Snatcher</title><link>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/</link><description>Recent content on LinkedIn Job Snatcher</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/index.xml" rel="self" type="application/rss+xml"/><item><title>About Us</title><link>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/about/</guid><description>&lt;h1 id="meet-the-team">Meet the Team&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Nilla&lt;/strong> — Copy-paste feature &amp;amp; demo video&lt;/li>
 &lt;li>&lt;strong>Tommy&lt;/strong> — AI prompt list &amp;amp; slide deck&lt;/li>
@@ -12,19 +12,19 @@
 &lt;li>Built with &lt;a href="https://gohugo.io/">Hugo&lt;/a> &amp;amp; the &lt;a href="https://github.com/theNewDynamic/gohugo-theme-ananke">Ananke theme&lt;/a>&lt;/li>
 &lt;li>Testing with &lt;a href="https://jestjs.io/">Jest&lt;/a>, &lt;a href="https://sinonjs.org/">Sinon&lt;/a>, and &lt;a href="https://github.com/acvetkov/sinon-chrome">sinon-chrome&lt;/a>&lt;/li>
 &lt;li>Inspired by Harshita Joshi’s React + TypeScript Chrome extension tutorial&lt;/li>
-&lt;/ul></description></item><item><title>Features</title><link>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/features/</guid><description>&lt;h2 id="-features">🚀 Features&lt;/h2>
+&lt;/ul></description></item><item><title>Features</title><link>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/features/</guid><description>&lt;h2 id="-features">🚀 Features&lt;/h2>
 &lt;h3 id="1-one-click-copy">1. One-Click Copy&lt;/h3>
 &lt;p>On any LinkedIn Jobs page, click our toolbar button and instantly grab the full job description into your clipboard.&lt;/p>
 &lt;div class="screenshot">
- &lt;img src="https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/images/screenshot-copy.png" alt="One-click copy demo" style="max-width: 50%; height: auto;">
+ &lt;img src="https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/chrome-extension-linkedIn-job-snatcher/images/screenshot-copy.png" alt="One-click copy demo" style="max-width: 50%; height: auto;">
 &lt;/div>
 &lt;h3 id="2-prebuilt-ai-prompts">2. Prebuilt AI Prompts&lt;/h3>
 &lt;p>Choose from ready-made prompts—like “What skills are most important?”, or “Sample interview questions”—and they’ll be prepended before your clipboard text.&lt;/p>
 &lt;div class="screenshot">
- &lt;img src="https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/images/screenshot-prompts.png" alt="Prompt selection" style="max-width: 50%; height: auto;">
+ &lt;img src="https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/chrome-extension-linkedIn-job-snatcher/images/screenshot-prompts.png" alt="Prompt selection" style="max-width: 50%; height: auto;">
 &lt;/div>
 &lt;h3 id="3-personal-resume--cover-letter-snippets">3. Personal Resume &amp;amp; Cover-Letter Snippets&lt;/h3>
-&lt;p>Store and toggle your resume or cover-letter text locally. When you fire a prompt, it integrates your personal boilerplate automatically.&lt;/p></description></item><item><title>How It Works</title><link>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/how/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/how/</guid><description>&lt;h2 id="-how-it-works">⚙️ How It Works&lt;/h2>
+&lt;p>Store and toggle your resume or cover-letter text locally. When you fire a prompt, it integrates your personal boilerplate automatically.&lt;/p></description></item><item><title>How It Works</title><link>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/how/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/how/</guid><description>&lt;h2 id="-how-it-works">⚙️ How It Works&lt;/h2>
 &lt;ol>
 &lt;li>&lt;strong>Install Extension&lt;/strong>&lt;br>
 Add from the Chrome Web Store or load unpacked in developer mode.&lt;/li>
@@ -34,7 +34,7 @@ Go to any job posting—our button becomes active.&lt;/li>
 Hit the “Snatch” button, choose your AI prompt, and voilà: the text (plus prompt) is in your clipboard.&lt;/li>
 &lt;li>&lt;strong>Paste &amp;amp; Go&lt;/strong>&lt;br>
 Paste into ChatGPT, your editor, or your CRM—instantly ready for analysis, drafting, or outreach.&lt;/li>
-&lt;/ol></description></item><item><title>Install</title><link>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/install/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher/install/</guid><description>&lt;h2 id="-install">📥 Install&lt;/h2>
+&lt;/ol></description></item><item><title>Install</title><link>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/install/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://terskayl.github.io/chrome-extension-linkedIn-job-snatcher-CIS-3500/install/</guid><description>&lt;h2 id="-install">📥 Install&lt;/h2>
 &lt;ol>
 &lt;li>&lt;strong>Chrome Web Store&lt;/strong>&lt;br>
 &lt;a href="https://chrome.google.com/webstore/detail/your-extension-id">Add to Chrome&lt;/a>{: .button .button-large}&lt;/li>
